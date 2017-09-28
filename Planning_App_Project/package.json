@@ -1,0 +1,26 @@
+{
+  "name": "Planning_App",
+  "version": "1.0.0",
+  "description": "Planning App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "mongojs": "*"
+  },
+  "author": "Team9",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular/cli": "^1.4.3"
+  }
+}
